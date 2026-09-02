@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-computer
+      name: '@dsh-extra/dsh-computer'
+      # powershell.exe 为 Windows 必有组件，worker 常驻按需拉起；
+      # 工具注册失败会优雅降级（跳过，不炸会话）。
+      config: {}
