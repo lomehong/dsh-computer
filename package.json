@@ -33,8 +33,8 @@
     "test": "vitest run"
   },
   "peerDependencies": {
-    "@deepseek-ai/cordis": ">=4.0.0",
-    "@deepseek-ai/schemastery": ">=3.18.0"
+    "@deepseek-ai/cordis": "^4.0.1-rc.4",
+    "@deepseek-ai/schemastery": "^3.18.1-rc.4"
   },
   "devDependencies": {
     "@deepseek-ai/cordis": "^4.0.2",
