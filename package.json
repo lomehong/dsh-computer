@@ -1,6 +1,6 @@
 {
   "name": "@dsh-extra/dsh-computer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "电脑操作插件：屏幕截图、鼠标/键盘、窗口管理——让 dsh agent 具备操控真实桌面的能力（Windows 优先）",
   "license": "MIT",
   "type": "module",
